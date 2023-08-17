@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# connects to server
+
+ssh -i /home/vagrant/.ssh ubuntu@100.26.238.250
